@@ -1,0 +1,24 @@
+- id: aerosol
+  title:
+     en: "Aerosol"
+- id: atmos 
+  title:
+     en: "Atmosphere"
+- id: atmosChem 
+  title:
+     en: "Atmospheric Chemistry"
+- id: land 
+  title:
+     en: "Land Surface"
+- id: landIce 
+  title:
+     en: "Land Ice"
+- id: ocean 
+  title:
+     en: "Ocean"
+- id: ocnBgchem 
+  title:
+     en: "Ocean Biogeochemistry"
+- id: seaIce 
+  title:
+     en: "Sea ice"

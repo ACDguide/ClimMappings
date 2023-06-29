@@ -1,0 +1,69 @@
+﻿- id: sub-30-min 
+  title:
+     en: "sub 30-min"
+- id: 30-min 
+  title:
+     en: "30-min"
+- id: 1-hr 
+  title:
+     en:  "1-Hourly"
+- id: 3-hr 
+  title:
+     en:  "3-Hourly"
+- id: 6-hr 
+  title:
+     en:  "6-Hourly"
+- id: 12-hr 
+  title:
+     en:  "12-Hourly"
+- id: day
+  title:
+     en: "Daily"
+- id: day-month 
+  title:
+     en: "1-day to 1-mon"
+- id: mon
+  title:
+     en: "Monthly"
+- id: season 
+  title:
+     en: "Seasonal"
+- id: year
+  title:
+     en: "Annual"
+- id: multi-year
+  title:
+     en: "Multi Annual"
+- id: decad 
+  title:
+     en: "Decadal"
+- id: clim-hr 
+  title:
+     en:  "Hourly Climatology"
+- id: clim-day 
+  title:
+     en: "Daily Climatology"
+- id: clim-week 
+  title:
+     en: "Weekly Climatology"
+- id: clim-mon
+  title:
+     en: "Monthly Climatology"
+- id: clim-seas 
+  title:
+     en: "Seasonal Climatology"
+- id: clim-year 
+  title:
+     en: "Annual Climatology"
+- id: multi-year-clim
+  title:
+     en: "Multi Annual Climatology"
+- id: clim-normal
+  title:
+     en: "Climate Normal (30-year climatology)"
+- id: event 
+  title:
+     en: "Event based"
+- id: irregular 
+  title:
+     en: "Irregular"
